@@ -13,7 +13,7 @@ Basic E-Commerce website where
 * Order a Product
 
 Technology Stack
-
+----------------
 Backend
 -------
 SQL SERVER
